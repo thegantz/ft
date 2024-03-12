@@ -10,7 +10,7 @@ const config = {
       fallback: undefined,
     }),
     paths: {
-      base: '/ft',
+      base: "/ft"
     }
   },
   preprocess: vitePreprocess(),
