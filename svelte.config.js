@@ -5,8 +5,9 @@ import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 const config = {
   kit: {
     adapter: adapter({
-      pages: "docs",
-      assets: "docs"
+      pages: "build",
+      assets: "build",
+      fallback: undefined,
     }),
     paths: {
       base: '/ft',
