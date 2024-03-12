@@ -8,10 +8,7 @@ const config = {
       pages: "build",
       assets: "build",
       fallback: undefined,
-    }),
-    paths: {
-      base: "/ft"
-    }
+    })
   },
   preprocess: vitePreprocess(),
 };
