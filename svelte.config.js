@@ -10,8 +10,7 @@ const config = {
     }),
     paths: {
       base: '/ft',
-    },
-    target: "#svelte"
+    }
   },
   preprocess: vitePreprocess(),
 };
