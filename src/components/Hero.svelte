@@ -1,6 +1,5 @@
 <script>
     import Infocard from "./Infocard.svelte";
-    import Navbar from "./Navbar.svelte";
     import Teamcard from "./Teamcard.svelte";
     import Logo from "./Logo.svelte";
     import Banner from "./Banner.svelte";
