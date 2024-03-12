@@ -54,7 +54,7 @@
           <ul>
               <li>1. You must not disclose your personal information to members. All information required for applying is excepted.</li>
               <br>
-              <li>2. Any distribution of pornographic / graphical content is forbidden.</li>
+              <li>2. The distribution of pornographic material or graphic content is forbidden</li>
               <br>
               <li>3. Don't be an asshole.</li>
           </ul>
