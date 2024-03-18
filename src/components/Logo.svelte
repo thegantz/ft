@@ -1,5 +1,5 @@
 <script>
-    import FT_logo from "/static/images/banner.png";
+    import FT_logo from "/images/banner.png";
 </script>
 
 <div>
