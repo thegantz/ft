@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [sveltekit()],
   build: {
     base: '/',
-    assetsDir: 'static'
+    assetsDir: '/'
   },
   server: {
 	fs: {
