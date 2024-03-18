@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"build": "rm -rf build && vite build &&",
+		"build": "vite build",
 		"prepare": "touch .svelte-kit/static/build/.nojekyll",
 		"preview": "vite preview",
 		"deploy": "npx gh-pages -d build -t true"
