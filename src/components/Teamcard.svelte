@@ -25,7 +25,8 @@
       </div>
       <div class="collapse-content">
         <p>Requirements:</p>
-        <p>Interest in information technology, age 18 or older</p>
+        <p>- Interest in Information Technology & Cybersecurity</p>
+        <p>- Ability to act and communicate maturely</p>
         <br>
         <p>Contact:</p>
         <p>Applications to <span class="text-white">gantz8239478284307380@proton.me</span></p>

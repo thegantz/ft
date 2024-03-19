@@ -5,7 +5,6 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"prepare": "touch .svelte-kit/static/build/.nojekyll",
 		"preview": "vite preview"
 	},
 	"devDependencies": {
@@ -20,8 +19,5 @@
 		"tailwindcss": "^3.4.1",
 		"vite": "^5.0.3"
 	},
-	"type": "module",
-	"dependencies": {
-		"gh-pages": "^6.1.1"
-	}
+	"type": "module"
 }
