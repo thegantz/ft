@@ -9,7 +9,7 @@ export default defineConfig({
   },
   server: {
 	fs: {
-		allow: ["/images/static"]
+		allow: ["static/images/"]
 	}
   }
 });

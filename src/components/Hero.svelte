@@ -5,15 +5,9 @@
     import Banner from "./Banner.svelte";
 </script>
 
-<div class="absolute w-full min-h-screen md:bg-fixed bg-cover bg-center flex flex-col items-center py-10">
+<div class="absolute sm:w-full min-h-screen md:bg-fixed bg-cover bg-center flex flex-col items-center py-10 md:bg-[url('/images/bg.png')]">
     <Logo />
     <Banner />
     <Teamcard />
     <Infocard />
 </div>
-
-<style>
-    div {
-        background-image: url(/images/bg.png);
-    }
-</style>
